@@ -15,7 +15,11 @@ Once setup, load [project provided arduino code](./src/Arduino/Arduino.ino) prog
 
 ### TLD;
 
-If you want to get your Arduino Skype Status Light running, just go to Releases,
+If you want to get your Arduino Skype Status Light running, just go to project [Releases](https://github.com/NachoColl/arduino-skype-status-light/releases) and download/run ```Status.Skype.Arduinio.Nacho.Coll.exe```. Once you login to your Skype for Business account your arduino lights should display your status.
+
+Please note that the .exe file is quite big, in order to simplify and be able to install/run on computers you can't install new software (your company computer). Also note that you may need to get dotnet core 3.x to run the application ([non-admin installation of the .NET Core SDK](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script)).
+
+
 
 
 
