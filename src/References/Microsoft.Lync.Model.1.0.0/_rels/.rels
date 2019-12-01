@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Microsoft.Lync.Model.nuspec" Id="R37165f540dfdb02f" />
+<Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/56216d3a5cce994a93a1b8a835c5d2fd.psmdcp" Id="R0f3a72f8b741b08e" />
+</Relationships>
