@@ -19,7 +19,9 @@ If you want to get your Arduino Skype Status Light running, just go to project [
 
 Please note that the .exe file is quite big, in order to simplify and be able to install/run on computers you can't install new software (your company computer). Also note that you may need to get dotnet core 3.x to run the application ([non-admin installation of the .NET Core SDK](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script)).
 
+The application mainly runs in the background showing a small icon in your bar; To stop just click on it and press Exit:
 
+![3 leds Arduinio](./assets/tray-icon.PNG).
 
 
 
